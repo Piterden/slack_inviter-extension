@@ -30,6 +30,9 @@
             "role": "Developer"
         }
     ],
+    "require": {
+        "anomaly/streams-platform": "1.1.*"
+    },
     "support": {
         "email": "support@anomaly.is"
     },
